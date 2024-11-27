@@ -12,6 +12,8 @@
 *.d
 *.asm
 *.elf
+*.bin
+*.out
 
 # Inclusions for libraries
 !module/*/lib/mod_*.a
